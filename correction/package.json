@@ -1,0 +1,15 @@
+{
+  "name": "correction",
+  "version": "1.0.0",
+  "description": "Créer une API avec Express.js qui utilise les données disponibles à ce lien JSON pour fournir des informations sur les communes de France : https://raw.githubusercontent.com/high54/Communes-France-JSON/master/france.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
